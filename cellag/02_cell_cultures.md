@@ -60,12 +60,6 @@
     - Fat (adipocytes)
         * Mesenchymal stem cells
             - As they differentiate and proliferate they stop becoming fat cells
-```
-                        MSC
-        |               |               |       differentiation
-adipocytes (fat cells) myoblasts     osteoblasts (musches)
-```
-
         * DFAT cells: longer term proliferative capacity
         * Preadipocytes: already comitted to adipogenesis (won't become muscle/bone cartilage)
         * [Fish et al, 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7051019/)
@@ -75,6 +69,13 @@ adipocytes (fat cells) myoblasts     osteoblasts (musches)
           body and organs via tanks and cell/barrier configurations.
     - cartilage for scaffolding
     - blood cells for oxygen flow
+
+```
+                        MSC
+        |               |               |       differentiation
+adipocytes (fat cells) myoblasts     osteoblasts (musches)
+```
+
 
 ### Cell isolation
 
