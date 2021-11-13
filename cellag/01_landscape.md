@@ -11,7 +11,7 @@
    |    |
 meat, dairy - animal feed, grazing land
 ```
-* Pollution: Food related GHG emissions largely from Beef ([Godfray et al 2018](https://www.researchgate.net/publication/326496818_Meat_consumption_health_and_the_environment/link/5f818298a6fdccfd7b5559ef/download)
+* Pollution: Food related GHG emissions largely from Beef ([Godfray et al 2018](https://www.researchgate.net/publication/326496818_Meat_consumption_health_and_the_environment/link/5f818298a6fdccfd7b5559ef/download))
 * Animal welfare: Industrial sheds are crampt. Swimming in their own waste.
   De-horned without anasthesia.
 * Foodborne illness: Animal biowaste (blood, mucous etc) harbors pathogens
@@ -307,7 +307,5 @@ waste - |
 ## Appendix
 
 * The immortal life of Henrietta Lacks
-* [iap](https://www.cellag-mit.com/iap-course)
-* [course](https://www.youtube.com/watch?v=fmt42H2PS5E)
 
 

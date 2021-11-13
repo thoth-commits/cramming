@@ -66,14 +66,11 @@
 adipocytes (fat cells) myoblasts     osteoblasts (musches)
 ```
 
-            * DFAT cells: longer term proliferative capacity
-            * Preadipocytes: already comitted to adipogenesis (won't become
-              muscle/bone cartilage)
-            * [Fish et al, 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7051019/)
+        * DFAT cells: longer term proliferative capacity
+        * Preadipocytes: already comitted to adipogenesis (won't become muscle/bone cartilage)
+        * [Fish et al, 2020](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7051019/)
     - Feeder cells (liver/placenta/pancreatic cells to produce growth factors to
-      replace expansive medi)
-[CulNet](https://www.culturedabundance.com/post/patent-analysis-integriculture-landscape-analysis),
-[ForkGoode](https://www.culturedabundance.com/post/patent-analysis-fork-and-goode-s-novel-bioreactor-system)
+      replace expansive media) [CulNet](https://www.culturedabundance.com/post/patent-analysis-integriculture-landscape-analysis), [ForkGoode](https://www.culturedabundance.com/post/patent-analysis-fork-and-goode-s-novel-bioreactor-system)
         * Secrete growth factors that can be recirculated as media. Mimics the
           body and organs via tanks and cell/barrier configurations.
     - cartilage for scaffolding
